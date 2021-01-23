@@ -1,0 +1,5 @@
+Move -128 r1
+Move 127 r2
+Add r1 r2 r3
+Interrupt r0 0
+Halt r1 r2 r3

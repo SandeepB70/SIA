@@ -1,0 +1,6 @@
+Move 7 r5
+Jump 16
+Halt r1 r2 r3
+Move 10 r6
+Interrupt r0 0
+Halt r1 r2 r3

@@ -1,0 +1,6 @@
+Move 50 r1
+Call 20
+Interrupt r0 0
+Halt r1 r2 r3
+Move 30 r3
+Return r0

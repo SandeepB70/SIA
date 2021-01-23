@@ -1,0 +1,11 @@
+Move 10 r5
+Move 19 r6
+Move -3 r8
+Push r5
+Push r6
+Push r8
+Pop r1
+Pop r2
+Pop r3
+Interrupt r0 0
+Halt R1 R2 R3

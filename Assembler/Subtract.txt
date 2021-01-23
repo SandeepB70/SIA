@@ -1,0 +1,5 @@
+Move 6 r2
+Move 4 r3
+Subtract r2 r3 r4
+Interrupt r0 0
+Halt r1 r2 r3

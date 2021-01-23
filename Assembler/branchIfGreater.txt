@@ -1,0 +1,6 @@
+Move 8 r4
+Move 7 r5
+branchIfGreater r4 r5 12
+Halt r1 r2 r3
+Interrupt r0 0
+Halt r1 r2 r3

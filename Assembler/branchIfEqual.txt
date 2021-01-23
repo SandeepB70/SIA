@@ -1,0 +1,6 @@
+Move 5 r1
+Move 5 r2
+branchIfEqual r1 r2 12
+Halt r1 r2 r3
+Interrupt r0 0
+Halt r1 r2 r3
